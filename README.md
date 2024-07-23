@@ -29,5 +29,5 @@ git init
     git log #육하원칙에 따라 뭉텅이로 다 알려줌
     ``` 
     ```
-    git log --one line #좀 더 단순하게 볼 수 있음 
+    git log --oneline #좀 더 단순하게 볼 수 있음 
     ```
